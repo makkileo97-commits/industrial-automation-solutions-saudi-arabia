@@ -1,5 +1,5 @@
 **Industrial Automation Solutions in Saudi Arabia: Building Smarter and More Connected Industries**
-Industrial automation is transforming how businesses operate across Saudi Arabia. As industries adopt smart manufacturing, Industrial Internet of Things (IIoT), advanced networking, and intelligent control systems, reliable technology infrastructure has become increasingly important.
+<br/>Industrial automation is transforming how businesses operate across Saudi Arabia. As industries adopt smart manufacturing, Industrial Internet of Things (IIoT), advanced networking, and intelligent control systems, reliable technology infrastructure has become increasingly important.
 
 From manufacturing plants and oil and gas facilities to power stations, water treatment plants, and transportation infrastructure, automation technologies help organizations improve operational efficiency, monitor processes, and make better decisions.
 
